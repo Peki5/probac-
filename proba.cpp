@@ -18,5 +18,7 @@ int main(void) {
 
    cout << suma << endl;
 
+   cout << "Dodao sam ovaj red!" <<endl;
+
    return 0;
 }
